@@ -2,6 +2,8 @@
 
 Sistema de lotação de ônibus em tempo real usando programação dinâmica.
 
+🔗 **Site explicativo da solução:** https://senta-ai-sigma.vercel.app/
+
 ## Integrantes
 
 - Arthur Berlofa Bosi - RM564438
